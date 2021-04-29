@@ -1,0 +1,17 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+1-
+
+a- Las variables son un espacio de memoria en un programa que guardan algun dato, ya sea texto, numero,y diferentes valores de datos. Se definen con la palabra var y se le asigna valor con un igual (=).
+
+b- Los strings se le llama a las cadenas de texto es decir como estas palabras que estoy escribiendo aca, puede ser una frase una palabra o mezcla de numeros, letras, o signos. Van encasillados entre comillas simples o dobles.
+
+c- Las funciones son ordenes agrupadas tal como unas instrucciones, que siguen un camino para ejecutarse. Y realizan alguna tarea en particular, tiene un argumento que es un valor asignable luego en su utilizacion de la funcion.
+
+d- Declaraciones if, es una condicion, en español es la palabra si y se relacion cuando se compara algun valor con otro y dependiendo la comparacion es verdadera o no se cumple da ciertas instrucciones al respecto de la comparacion. Por ejemplo: SI hoy llueve, no podemos jugar al futbol, SINO (else) llueve si podemos jugar.
